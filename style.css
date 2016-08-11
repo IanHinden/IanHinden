@@ -3,24 +3,18 @@ header {
 	width: 100%
 }
 
-html, body {
-	overflow-x: hidden:
-}
-
 .full-width-bar {
-	margin: 0 -9999rem;
-	padding: 0.25rem 9999rem;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
 	background: rgba(0, 0, 0, 0.5);
-}
-
-body {
-	width: 900px;
-	text-align:left;
-	margin: 0 auto;
 }
 
 p {
 	font-size:250%;
+	width: 900px;
+	text-align:left;
+	margin: 0 auto;
 	
 }
 
