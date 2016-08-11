@@ -4,9 +4,9 @@ header {
 }
 
 .full-width-bar {
-	margin: 0px;
-	border: 0px;
-	padding: 0px;
+	margin: 0px -5px -5px 0px;
+	border: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
 	background: rgba(0, 0, 0, 0.5);
 }
 
@@ -21,4 +21,9 @@ p {
 img {
 	display: block;
 	text-align: center;
+	
+}
+
+#sidebar {
+	float: right;
 }
