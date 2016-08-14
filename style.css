@@ -16,8 +16,8 @@ body{
 	line-height: 60px;
 }
 
-.scrollimage {
-	
+#scrollimage {
+	border-radius: 50%;
 }
 
 #header h1 {
